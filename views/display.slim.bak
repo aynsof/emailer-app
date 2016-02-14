@@ -1,3 +1,0 @@
-table
-  - @emails.each do |email|
-    <tr><td>#{email.sender}</td><td>#{email.recipient}</td></tr>
